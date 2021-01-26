@@ -1,0 +1,22 @@
+
+body{
+    background-color: aliceblue;
+}
+#h1{
+    font-family: Arial;
+}
+.inputs{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 580px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+#resulty, #resultyd, #resultys, #resultya{
+    margin-left: 160px;
+}
+#button{
+    margin-left: 130px;
+    margin-top: 10px;
+}
+
